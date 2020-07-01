@@ -1,0 +1,7 @@
+Today's Home work : Data Types
+Current year = 2020
+Current month = June
+Today's Date = 30
+Today's Day = Tuesday
+Miles Walked today = 3.5 
+
