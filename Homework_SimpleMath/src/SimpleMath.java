@@ -1,5 +1,5 @@
 
-public class MySimpleMath {
+public class SimpleMath {
 
 	public static void main(String[] args) {
 		int x;
