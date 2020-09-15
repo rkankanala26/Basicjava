@@ -1,20 +1,20 @@
 
-public class Application {
+public class Application1 {
 
 	public static void main(String[] args) {
-		Tower towerA;
-		towerA = new Tower();
-		towerA.name = "Tower-A";
+		Tower1 towerA;
+		towerA = new Tower1();
+		towerA.name = "Tower1-A";
 		towerA.draw();
 		
-		Tower towerB;
-		towerB = new Tower();
-		towerB.name = "Tower-B";
+		Tower1 towerB;
+		towerB = new Tower1();
+		towerB.name = "Tower1-B";
 		towerB.draw();
 		
-		Tower towerC;
-		towerC = new Tower();
-		towerC.name = "Tower-C";
+		Tower1 towerC;
+		towerC = new Tower1();
+		towerC.name = "Tower1-C";
 		towerC.draw();
 
 	}

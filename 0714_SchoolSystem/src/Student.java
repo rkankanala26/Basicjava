@@ -11,7 +11,7 @@ public class Student {
 	}
 
 	void readABook() {
-		System.out.println("In read A book Rina read: "   + name );
+		System.out.println("In readAbook Rina read: "   + name );
 
 	}
 	

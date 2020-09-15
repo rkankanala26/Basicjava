@@ -13,7 +13,7 @@ public class For_Block {
 					System.out.println(x);
 			
 				}
-		
+
 			// For Loop for decrement
 			// Starting number :100
 			// every step: decrement by 10

@@ -9,8 +9,10 @@ public class PrintOddNum {
 			
 			if (i%2==1) {
 				System.out.print(i);
-				System.out.printf(",");
-//				System.out.printf(i,",");
+				if (i<99) {
+				System.out.printf(", ");
+				}
+
 			}
 			
 		}

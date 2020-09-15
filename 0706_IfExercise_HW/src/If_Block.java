@@ -5,7 +5,7 @@ public class If_Block {
 	
 		
 
-	int testscore = 100;
+	int testscore = 70;
 		
 		if(testscore >=90){
 		
