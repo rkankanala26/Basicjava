@@ -26,7 +26,6 @@ public class SchoolRegistration {
 //		
 //		//Set default close window
 //		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//		
 //		//Add Panel to the frame
 //		JPanel panel = new JPanel();
 //		frame.add(panel);
